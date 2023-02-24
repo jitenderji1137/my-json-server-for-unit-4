@@ -839,5 +839,21 @@
     "id":75   
     }
    ],
-   "UserCart" : []
+   "UserCart" : [],
+   "UserData" : [
+      {
+      "name":"jitender",
+      "password":"jitender",
+      "email":"backmind7@gmail.com",
+      "admin":"false",   
+      "cart":[]   
+      },
+      {
+      "name":"jitenderji1137",
+      "password":"jitenderji1137",
+      "email":"trademetrader1137@gmail.com",
+      "admin":"true",   
+      "cart":[]   
+      }
+   ]
 }
