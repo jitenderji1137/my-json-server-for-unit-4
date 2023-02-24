@@ -1,6 +1,18 @@
 {
    "Products" : [
       {
+      "TITLE": "ESPA Skin Stimulating Body Brush 1 piece",
+      "PRICE": "45",
+      "IMAGE1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12444654-2104848197233737.jpg",
+      "IMAGE2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12444654-1384998526665783.jpg",
+      "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12444654-2744998526819140.jpg",
+      "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12444654-1984998526915194.jpg",
+      "DESCRIPTION": "A daily body brush to improve tone and boost cell renewal.",
+      "MAINCATEGORY": "Bath_Body",
+      "createdAt": 1677251018633,
+      "id": "7Xwhqj6eR1"
+      },
+      {
     "TITLE": "HairMax LaserBand 82 (1 kit)",
     "PRICE": 799,
     "IMAGE1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902492-1614866429334395.jpg",
