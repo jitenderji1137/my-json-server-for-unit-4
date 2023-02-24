@@ -8,7 +8,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902492-1614866429334395.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902492-1694864207892649.jpg",
     "DESCRIPTION": "An at-home hair stimulating laser device for all hair types.\r\n",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":1     
     },
     {
     "TITLE": "Philip B Scent of Santa Fe Shampoo (11.8 fl. oz.)",
@@ -18,7 +19,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12491665-1414761148719687.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12491665-5404967413609065.jpg",
     "DESCRIPTION": "Exotic shampoo for healthier hair.",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":2   
     },
     {
     "TITLE": "T3 Source Handheld Showerhead",
@@ -28,7 +30,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/11485120-1494599347586834.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/11485120-9144639582651377.jpg",
     "DESCRIPTION": "Earn 2250 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":3   
     },
     {
     "TITLE": "ghd Gold Styler - 1\" Flat Iron, Grand-Luxe Collection (Worth $269.00)",
@@ -38,7 +41,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13934555-1584985568223560.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13934555-1204985568277314.jpg",
     "DESCRIPTION": "Earn 3435 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":4   
     },
     {
     "TITLE": "Briogeo Don't Despair Repair Strengthening Treatment Oil (1 fl. oz.)",
@@ -48,7 +52,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902853-6424931365650246.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902853-7374931365872051.jpg",
     "DESCRIPTION": "A strengthening, silicone-free hair oil for dry, damaged hair.",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":5   
     },
     {
     "TITLE": "ghd Paddle Brush",
@@ -58,7 +63,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12744964-4194823059413645.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12744964-1734823059349310.jpg",
     "DESCRIPTION": "Earn 525 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":6   
     },
     {
     "TITLE": "T3 Fit Compact Hair Dryer 1 count - White Rose-Gold",
@@ -68,7 +74,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12782517-1214830275112402.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12782517-4244923874976697.jpg",
     "DESCRIPTION": "A compact hair dryer with a lightweight and ergonomic design.",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":7   
     },
     {
     "TITLE": "EVOLVh SmartVolume Leave-In Conditioner (2 fl. oz.)",
@@ -78,7 +85,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901035-4135026001726856.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901035-1484909370693526.jpg",
     "DESCRIPTION": "A water based, travel size conditioner for thicker, voluminous hair.",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":8   
     },
     {
     "TITLE": "The Nue Co. Growth Phase Hair Supplements (90 Capsules)",
@@ -88,7 +96,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13502068-2114930152582606.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13502068-1354930152857199.jpg",
     "DESCRIPTION": "Earn 975 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":9   
     },
     {
     "TITLE": "Augustinus Bader The Neem Comb with Handle",
@@ -98,7 +107,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13905833-2734977030077250.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13905833-1374977030155538.jpg",
     "DESCRIPTION": "Earn 435 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":10   
     },
     {
     "TITLE": "Act+Acre Vegan Capsules (180 Capsules)",
@@ -108,7 +118,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13926908-1584987959500361.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13926908-1295002480475634.jpg",
     "DESCRIPTION": "Earn 780 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":11   
     },
     {
     "TITLE": "VIRTUE Frizz Block Smoothing Spray 150ml",
@@ -118,7 +129,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13479051-1524955234684022.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13479051-1004955234765916.jpg",
     "DESCRIPTION": "Earn 660 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":12   
     },
     {
     "TITLE": "ghd Platinum+ Styler - 1\" Flat Iron (White)",
@@ -128,7 +140,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12744947-7734823054540715.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12744947-4234823054714259.jpg",
     "DESCRIPTION": "Earn 4185 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":13   
     },
     {
     "TITLE": "Harry Josh Pro Tools 3-in-1 Ceramic Curling Iron 1 Inch (1 piece)",
@@ -138,7 +151,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902669-1824869708720246.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902669-5874869708667170.jpg",
     "DESCRIPTION": "A professional-grade curling iron that works interchangeably as a wand, marcel and curling iron.",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":14   
     },
     {
     "TITLE": "Grow Gorgeous Satin Bonnet",
@@ -148,7 +162,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12651076-1034854643589367.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12651076-2144854643723929.jpg",
     "DESCRIPTION": "Earn 525 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":15   
     },
     {
     "TITLE": "Dermstore Exclusive Scalp Treatment Kit (Worth $104.00)\r\n",
@@ -158,7 +173,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12707050-1714824654618936.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12707050-3534891233040284.jpg",
     "DESCRIPTION": "A hair care kit to preserve the hair and scalp's health and strength.",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":16   
     },
     {
     "TITLE": "Christophe Robin Special Blow Dry Hair Brush (12 Rows)",
@@ -168,7 +184,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/11366063-1074435873966203.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/11366063-1114704879894030.jpg",
     "DESCRIPTION": "Earn 1545 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":17    
     },
     {
     "TITLE": "Grow Gorgeous Volume Bodifying LeaveIn Serum 5 fl. oz.",
@@ -178,7 +195,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11927421-1604911254918760.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11927421-1954713643068060.jpg",
     "DESCRIPTION": "A lightweight hair serum to boost body and volume in fine, flat hair.",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":18   
     },
     {
     "TITLE": "ghd Bodyguard - Heat Protect Spray 4 fl. oz",
@@ -188,7 +206,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12744976-1024908038248203.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12744976-1614908038295909.jpg",
     "DESCRIPTION": "Earn 420 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":19   
     },
     {
     "TITLE": "Grow Gorgeous Intense Hair Density Serum 60 ml.",
@@ -198,7 +217,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11927426-4334713646333584.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11927426-4414713646394457.jpg",
     "DESCRIPTION": "A powerful hair serum that promotes denser and fuller-looking hair.",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":20   
     },
     {
     "TITLE": "Oribe Obsessed Set (3 piece - $58 Value)",
@@ -208,7 +228,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12903075-9614876995268065.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12903075-1774876995325860.jpg",
     "DESCRIPTION": "A luxurious hair care set with bestselling formulas.",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":21   
     },
     {
     "TITLE": "R+Co DART Pomade Stick 0.5 oz.",
@@ -218,7 +239,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13939518-7204982491766493.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13939518-9604982491811478.jpg",
     "DESCRIPTION": "Earn 345 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":22   
     },
     {
     "TITLE": "R+Co Television Perfect Hair Shampoo (Various Sizes)",
@@ -228,7 +250,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902037-4044866432108096.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902037-1814864483331001.jpg",
     "DESCRIPTION": "Earn 240 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":23   
     },
     {
     "TITLE": "Oribe Wide Tooth Comb",
@@ -238,7 +261,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/14226072-2005020867822401.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/14226072-8545020867876989.jpg",
     "DESCRIPTION": "Earn 750 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":24   
     },
     {
     "TITLE": "Augustinus Bader The Shampoo 200ml",
@@ -248,7 +272,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13309107-1044977030842826.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13309107-7734977030939549.jpg",
     "DESCRIPTION": "Before and after that increases hair hydration, shine, and thickness in 8 weeks.",
-    "MAINCATEGORY": "HairCare"
+    "MAINCATEGORY": "HairCare",
+    "id":25   
     },
     {
     "TITLE": "SkinCeuticals Phyto Corrective Mask (2 fl. oz.)",
@@ -258,7 +283,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11339142-1394864739827452.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11339142-1954892768639382.jpg",
     "DESCRIPTION": "A leave-on, rinse-off or overnight face mask that hydrates skin and soothes sensitivity.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":26   
     },
     {
     "TITLE": "Best of Dermstore x Skin Cancer Foundation Sun Care Kit - $150 Value",
@@ -268,7 +294,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13811675-9994964348315184.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13811675-9994964348315184.jpg",
     "DESCRIPTION": "Earn 250 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":27   
     },
     {
     "TITLE": "SkinCeuticals Biocellulose Restorative Mask (6 piece)\r\n",
@@ -278,7 +305,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11289605-1004892784828186.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11289605-1554892770576137.jpg",
     "DESCRIPTION": "A healing, replenishing mask for post-procedure skin.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":28   
     },
     {
     "TITLE": "Jan Marini Transformation Cream",
@@ -288,7 +316,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11287931-6054870994982492.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11287931-6054870994982492.jpg",
     "DESCRIPTION": "An illuminating face moisturizer for all skin types.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":29   
     },
     {
     "TITLE": "Avene High Protection Tinted Compact SPF 50 - Beige (0.35 oz.)",
@@ -298,7 +327,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/11397659-1724653589379328.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/11397659-1574653596412051.jpg",
     "DESCRIPTION": "A 100% mineral, tinted sunscreen specially formulated for sensitive or redness-prone skin.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":30   
     },
     {
     "TITLE": "Oribe Maximista Thickening Spray (6.8 fl. oz.)",
@@ -308,7 +338,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902223-1204864296732015.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902223-9614866433243407.jpg",
     "DESCRIPTION": "A vegan volume spray that delivers lasting lift and hold.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":31   
     },
     {
     "__id": 44,
@@ -319,7 +350,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11370322-2044864242240924.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11370322-1384871762071386.jpg",
     "DESCRIPTION": "A lightening gel facial cleanser that brightens complexions.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":32   
     },
     {
     "TITLE": "LightStim LightStim for Acne (1 kit)",
@@ -329,7 +361,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11333024-1314864747052100.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/11333024-1594417715761038.jpg",
     "DESCRIPTION": "A handheld LED device for mild to moderate acne.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":33   
     },
     {
     "TITLE": "Harry Josh Pro Tools Ultra Light Pro Dryer 3 piece",
@@ -339,7 +372,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12918920-1164864245111306.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12918920-1814864245161163.jpg",
     "DESCRIPTION": "A professional, ionic hair dryer with lightweight handling that significantly reduces drying time.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":34   
     },
     {
     "TITLE": "Dr. Dennis Gross Skincare Alpha Beta Extra Strength Daily Peel (Pack of 60)",
@@ -349,7 +383,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11422035-1044864287963876.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11422035-1894864285156941.jpg",
     "DESCRIPTION": "A potent, two-step face peel treatment to restore radiance, refine pores and rejuvenate skin.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":35   
     },
     {
     "TITLE": "Olaplex No.3 and No.0 Duo",
@@ -359,7 +394,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13231116-1374958142292098.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13231116-1874947180088680.jpg",
     "DESCRIPTION": "Earn 900 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":36   
     },
     {
     "TITLE": "PCA SKIN Everyday Essentials Regimen",
@@ -369,7 +405,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13222912-3854900555458981.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13222912-3854900555458981.jpg",
     "DESCRIPTION": "A daily skin care set with hydrating formulas to boost plumper, smoother and youthful skin.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":37   
     },
     {
     "TITLE": "NuFACE NuBODY Skin Toning Device",
@@ -379,7 +416,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/11639761-1604669919357412.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/11639761-1994555875172290.jpg",
     "DESCRIPTION": "Earn 1995 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":38   
     },
     {
     "TITLE": "Oribe Gold Lust Conditioner Refill 1000ml",
@@ -389,7 +427,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13798731-2754952863452783.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13798731-1024952863484985.jpg",
     "DESCRIPTION": "Earn 2640 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":39   
     },
     {
     "TITLE": "Best of Dermstore Refresh Edit - $640 Value",
@@ -399,7 +438,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13278644-1174951890758541.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13278644-1174951890758541.jpg",
     "DESCRIPTION": "An expertly-curated 19-piece skin care set featuring the best Dermstore has to offer.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":40   
     },
     {
     "TITLE": "EltaMD Dermstore Exclusive Cleanse and Protect Kit",
@@ -409,7 +449,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13338895-8654905797841255.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13338895-2144905797913789.jpg",
     "DESCRIPTION": "An exclusive skin care set to renew and protect skin.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":41   
     },
     {
     "TITLE": "MZ Skin LED 2.0 LightMAX Supercharged LED Mask (Worth $818)",
@@ -419,7 +460,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13277468-1614900048336518.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13277468-1184900048392933.jpg",
     "DESCRIPTION": "Earn 4090 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":42   
     },
     {
     "TITLE": "NuFACE Trinity Facial Toning Kit Trinity Wrinkle Reducer Attachment Set (5 piece - $474 Value)",
@@ -429,7 +471,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12364099-1884913603663826.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12364099-1804866379155987.jpg",
     "DESCRIPTION": "A rechargeable handheld device for a more defined and youthful tone.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":43   
     },
     {
     "TITLE": "SkinCeuticals Post-Injectable System",
@@ -439,7 +482,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13279307-2134898793969474.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13279307-1904898791247793.jpg",
     "DESCRIPTION": "A curated skin care set for post-procedure skin.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":44   
     },
     {
     "TITLE": "Jan Marini SkinCare Management System - Dry to Very Dry 5 piece",
@@ -449,7 +493,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901316-5164870995355092.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901316-5164870995355092.jpg",
     "DESCRIPTION": "A 5-step system that will improve the overall texture and look of your complexion.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":45   
     },
     {
     "TITLE": "Beauty ORA Electric Microneedle Derma Pen System (4 Piece)",
@@ -459,7 +504,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12085487-8674871573411430.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12085487-6634871573463711.jpg",
     "DESCRIPTION": "An electric, microneedling pen that stimulates collagen and elastin production to reduce signs of aging.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":46   
     },
     {
     "TITLE": "Beauty ORA Face Microneedle Dermal Roller System 0.5mm - Purple/Black (1 Piece)",
@@ -469,7 +515,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/12085479-3804664177075397.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/12085479-2024664177114280.jpg",
     "DESCRIPTION": "A micro-needling device that minimizes the appearance of fine lines, wrinkles and scars.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":47   
     },
     {
     "TITLE": "Baby Foot Easy Pack - Original Deep Skin Exfoliation for Feet (1 pair)",
@@ -479,7 +526,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286410-1484938911664744.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286410-1614938911730891.jpg",
     "DESCRIPTION": "An intensive exfoliation treatment that alleviates severely dry, dehydrated feet.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":48   
     },
     {
     "TITLE": "Sunday Riley Wake Up With Me Complete Morning Brightening Routine (Worth $178.00)",
@@ -489,7 +537,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13708654-1854950126576591.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13708654-1874950126639285.jpg",
     "DESCRIPTION": "Earn 475 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":49   
     },
     {
     "TITLE": "La Roche-Posay Toleriane Dermallergo Moisturizing Cream",
@@ -499,7 +548,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11429005-7114879159072539.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11429005-1454879159207833.jpg",
     "DESCRIPTION": "A deeply moisturizing treatment for dry and sensitive skin types.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":50   
     },
     {
     "TITLE": "NEST Fragrances Hearth Classic Candle 8.1 oz",
@@ -509,7 +559,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12691019-7284813756721307.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12691019-7284813756721307.jpg",
     "DESCRIPTION": "Earn 173 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":51   
     },
     {
     "TITLE": "Alterna CAVIAR Great Barrier Repair Haircare Kit (Worth $98.00)",
@@ -519,7 +570,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13911681-1264987381317327.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13911681-1924987381107444.jpg",
     "DESCRIPTION": "Earn 888 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":52   
     },
     {
     "TITLE": "EVOLVh SmartStart Leave-in Conditioner (8.5 fl. oz.)",
@@ -529,7 +581,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901481-6735026001992050.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901481-1925026001850435.jpg",
     "DESCRIPTION": "A protective, hydrating treatment for softer, healthier hair.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":53   
     },
     {
     "TITLE": "Christophe Robin New Dreamy Volume Ritual",
@@ -539,7 +592,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13411317-1324994437377264.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13411317-1524994437464489.jpg",
     "DESCRIPTION": "Earn 225 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":54   
     },
     {
     "TITLE": "Revitalash Revitalash Advanced Set",
@@ -549,7 +603,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13952210-1055008869015891.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13952210-1755008868945565.jpg",
     "DESCRIPTION": "Earn 563 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":55   
     },
     {
     "TITLE": "Naturopathica Facial Cleansing Brush (1 count)",
@@ -559,7 +614,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902020-1074871579220060.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902020-1714871488927926.jpg",
     "DESCRIPTION": "An ultra-soft cleansing brush that dissolves impurities and exfoliates skin.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":56   
     },
     {
     "TITLE": "Dr. Dennis Gross Advanced Retinol and Ferulic Intense Wrinkle Cream 60ml",
@@ -569,7 +625,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13445706-6684918669197579.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13445706-1214918669277145.jpg",
     "DESCRIPTION": "Earn 385 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":57   
     },
     {
     "TITLE": "Naturopathica Manuka Honey Cleansing Balm 0.5 oz",
@@ -579,7 +636,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13209066-8874891687927758.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13209066-8874891687927758.jpg",
     "DESCRIPTION": "Earn 94 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":58   
     },
     {
     "TITLE": "Christophe Robin Hydrating Melting Mask with Aloe Vera 200ml",
@@ -589,7 +647,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12635434-5864884720006480.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12635434-1034891256840226.jpg",
     "DESCRIPTION": "Earn 555 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":59   
     },
     {
     "TITLE": "Vapour Beauty Lip Nectar (0.12 oz.)",
@@ -599,7 +658,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12905931-2054864747926984.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12905931-1964871282924541.jpg",
     "DESCRIPTION": "A creamy lipstick that enhances lips with a soft wash of color.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":60   
     },
     {
     "TITLE": "GLOSSYBOX Freeze The Moment Advent Calendar 2022",
@@ -609,7 +669,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13884703-1164991828676300.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13951789-1584987868581431.jpg",
     "DESCRIPTION": "Earn 275 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":61   
     },
     {
     "TITLE": "Epicuren Discovery Kukui Coconut After Bath Body Moisturizer (8 fl. oz.)",
@@ -619,7 +680,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902096-3234871897240163.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902096-3234871897240163.jpg",
     "DESCRIPTION": "A moisturizing body lotion with a tropical scent.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":62   
     },
     {
     "TITLE": "Christophe Robin Luscious Curl Cream with Flaxseed Oil (5 fl. oz.)",
@@ -629,7 +691,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/12245576-6934704897242217.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp/productimg/1600/1600/12245576-1234704897345366.jpg",
     "DESCRIPTION": "A curl cream to shape and nourish curls.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":63   
     },
     {
     "TITLE": "Olga Lorencin SkinCare Red Carpet Facial in a Box (5 piece)",
@@ -639,7 +702,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11288389-1834927318505043.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11288389-1784871571038328.jpg",
     "DESCRIPTION": "An anti-aging trio of clinically advanced products for more radiant skin.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":64   
     },
     {
     "TITLE": "Christophe Robin Cleansing Purifying Scrub with Sea Salt Duo",
@@ -649,7 +713,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13978267-1504991771290107.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13978267-1504991771290107.jpg",
     "DESCRIPTION": "Earn 798 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":65   
     },
     {
     "TITLE": "Obagi Medical Sun Shield Matte Broad Spectrum SPF 50",
@@ -659,7 +724,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11288922-7604855673117736.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11288922-2094855673030619.jpg",
     "DESCRIPTION": "Earn 186 reward points when purchasing this product as a rewards member",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":66   
     },
     {
     "TITLE": "DHC Q10 Mask (1 piece)",
@@ -669,7 +735,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11872191-1464859308242675.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11872191-3354859308374672.jpg",
     "DESCRIPTION": "An anti-aging facial mask that protects against free-radical damage.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":67   
     },
     {
     "TITLE": "COOLA Classic Liplux Organic Lip Balm Sunscreen SPF 30 Original 0.15 oz.",
@@ -679,7 +746,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13129124-6944866325728144.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13129124-1984866325777377.jpg",
     "DESCRIPTION": "An organic, antioxidant-rich lip balm that hydrates lips and provides broad-spectrum sun protection.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":68   
     },
     {
     "TITLE": "No7 Youthful Replenishing Facial Oil (1 fl. oz.)",
@@ -689,7 +757,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286764-3344785962529438.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286764-8734785962639892.jpg",
     "DESCRIPTION": "A face oil that deeply moisturizes and nourishes kin for a more radiant-looking complexion.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":69   
     },
     {
     "TITLE": "Olaplex Hair Repair Treatment Kit (Worth $90.00)",
@@ -699,7 +768,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13903619-9934998250298583.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13903619-1444998250237659.jpg",
     "DESCRIPTION": "Earn 744 reward points when purchasing this product as a rewards member*",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":70   
     },
     {
     "TITLE": "SKIN INC Supplement Bar French Pine Bark Serum (10 ml.)",
@@ -709,7 +779,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902201-1584870005994206.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902201-2144870006038336.jpg",
     "DESCRIPTION": "A serum that protects your skin from free radical damage.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":71   
     },
     {
     "TITLE": "Oribe Bundle for Beautiful Colour",
@@ -719,7 +790,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13895083-3884988194999638.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13895083-3634988195088228.jpg",
     "DESCRIPTION": "Earn 760 reward points when purchasing this product as a rewards member",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":72   
     },
     {
     "TITLE": "Dr Dennis Gross SpectraLite™ FaceWare Pro (1 piece)",
@@ -729,7 +801,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12747871-5844866386756265.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12747871-8964864285151349.jpg",
     "DESCRIPTION": "An anti-aging light therapy device that smooths wrinkles and combats acne for a more radiant complexion.",
-    "MAINCATEGORY": "Bestsellers"
+    "MAINCATEGORY": "Bestsellers",
+    "id":73   
     },
     {
     "TITLE": "SkinCeuticals Phyto Corrective Gel (1 fl. oz.)",
@@ -739,7 +812,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11289629-1344870995716565.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11289629-1864892772011949.jpg",
     "DESCRIPTION": "A hydrating facial gel that soothes and calms sensitive skin.",
-    "MAINCATEGORY": "SkinCare"
+    "MAINCATEGORY": "SkinCare",
+    "id":74   
     },
     {
     "TITLE": "Allies of Skin 35% Vitamin C Perfecting Serum (1 fl. oz.)",
@@ -749,7 +823,8 @@
     "IMAGE3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12668223-1914932926030694.jpg",
     "IMAGE4": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12668223-2004932926084553.jpg",
     "DESCRIPTION": "A powerful face serum made with 35% vitamin C that protects skin against free radicals.",
-    "MAINCATEGORY": " SkinCare"
+    "MAINCATEGORY": " SkinCare",
+    "id":75   
     }
    ],
    "UserCart" : []
